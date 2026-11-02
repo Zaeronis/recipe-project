@@ -1,0 +1,13 @@
+# Python / env
+venv/
+.env
+
+# Local data and artifacts
+local/
+data/
+*.sqlite3
+*.db
+
+# Bytecode / caches
+__pycache__/
+*.py[cod]
